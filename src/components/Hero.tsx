@@ -14,7 +14,7 @@ const Hero = () => {
           </span>
         </div>
         
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-foreground to-foreground/70">
+        <h1 className="text-5xl md:text-8xl font-bold mb-6 leading-[1.15] pb-2 bg-clip-text text-transparent bg-gradient-to-r from-foreground to-foreground/70">
           Balaji Matta
         </h1>
         
