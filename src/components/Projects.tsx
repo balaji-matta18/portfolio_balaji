@@ -31,7 +31,7 @@ const projects: Project[] = [
       "Deployed on AWS with CI/CD pipeline",
     ],
     github: "https://github.com/balaji-matta18/spendBuddy-backend-api.git",
-    live: "https://your-live-link.com", // update if you have a live URL
+    live: "https://spendbuddyexpensetracker.netlify.app/", // update if you have a live URL
   },
   {
     title: "NASA-APOD",
@@ -44,7 +44,7 @@ const projects: Project[] = [
       "Global exception handling for optimized response time",
     ],
     github: "https://github.com/balaji-matta18/nasa_apod_backend.git", // adjust if needed
-    live: "https://your-nasa-apod-link.com", // optional
+    live: "https://cosmolens.vercel.app/", // optional
   },
   {
     title: "HireLog",
