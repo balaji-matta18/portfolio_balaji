@@ -31,7 +31,7 @@ const projects: Project[] = [
       "Deployed on AWS with CI/CD pipeline",
     ],
     github: "https://github.com/balaji-matta18/spendBuddy-backend-api.git",
-    live: "https://spendbuddyexpensetracker.netlify.app/", // update if you have a live URL
+    live: "https://spendbuddy.vercel.app/", // update if you have a live URL
   },
   {
     title: "NASA-APOD",
